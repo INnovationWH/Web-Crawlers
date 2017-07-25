@@ -55,7 +55,7 @@
 * [江南都市报负责人](http://null.com/)
 * [Science News负责人](http://null.com/)
 * [ChinaDaily负责人](http://null.com/)
-* [大河报负责人](http://null.com/)
+* [大河报负责人](https://github.com/vonhehe)
 * [财新报负责人](http://null.com/)
 * [Science America负责人](http://null.com/)
 * [Science Journal负责人](http://null.com/)
