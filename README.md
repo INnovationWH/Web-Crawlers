@@ -72,7 +72,7 @@
 * [四川日报负责人](http://null.com/)
 * [新京报负责人](http://null.com/)
 * [华盛顿邮报负责人](http://null.com/)
-* [燕赵晚报负责人](http://null.com/)
+* [燕赵晚报负责人](https://github.com/caomingpei)
 * [中国日报负责人](http://null.com/)
 * [中国财经报负责人](https://github.com/soweet)
 * [中山日报负责人](http://null.com/)
