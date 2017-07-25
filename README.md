@@ -74,7 +74,7 @@
 * [华盛顿邮报负责人](http://null.com/)
 * [燕赵晚报负责人](http://null.com/)
 * [中国日报负责人](http://null.com/)
-* [中国财经报负责人](http://null.com/)
+* [中国财经报负责人](https://github.com/soweet)
 * [中山日报负责人](http://null.com/)
 * [武汉晚报负责人](http://null.com/)
 * [新华每日电讯负责人](http://null.com/)
