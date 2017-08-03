@@ -1,0 +1,15 @@
+# 新闻媒体爬取项目--负责《[大河报](http://newpaper.dahe.cn/dhb/html/2017-03/07/node_897.htm)》
+### 项目技术实现
+- 爬虫采用Scrapy框架，7x24自动运行，单个纸媒爬取周期为24小时，CentOS系统
+    + 本人使用Centos6.9系统，APScheduler定时模块或者使用contrab定时皆可
+- 各纸媒为单独爬虫模块，采用适当的反爬技术，考虑Robots协议
+    + 由于该网站并没有反扒措施，只是用了模拟浏览器，但是为了不影响网站工作，本人大多在深夜里进行爬取
+    + 信息存储采用MySQL或MongoDB或文件方式 
+    + 前期本人使用csv文件测试，后来为了练习数据库使用能力改用了mysql
+    + 该模块项目请参看https://github.com/vonhehe/news_sql1
+- 词云展示采用wordcloud等Python第三方库
+    + 使用jieba分词
+    + 该模块项目请参看https://github.com/vonhehe/dahebaopub
+- 全系统采用Python语言，Web采用采用HTML5/CSS/JS，不要求使用框架
+    + 这里使用了django框架
+    + 该模块项目请参看https://github.com/vonhehe/learndjango/tree/pyany
